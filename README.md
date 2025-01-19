@@ -24,9 +24,11 @@ Tiktok
  - In the friends tab, they post a friend's story in the form of a post
  - I can easily access how to edit my profile
  - You can repost posts with one click next to the profile rather than going to the post share settings
+
 Remind
  - I can find all the clubs in a good proportion on the left hand side
  - I can create new messages and announcements very quickly as it is above the clubs page
+
 Instagram
  - From the notifications, you can see which account messages have been sent to you and the user who sent you that message
  - The colors throughou tthe app with a mixture between purple, pink, orange, and yellow create a really good mix and keeps consistent user retension
